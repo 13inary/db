@@ -1,4 +1,4 @@
-package main
+package db
 
 // 若表包含gorm.DeletedAt字段，那么下面删除都是软删除。
 
